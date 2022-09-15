@@ -12,9 +12,9 @@ HW
 - GPIO jumper F-M, GPIO header
 
 SW:
--RaspiOS, desktop
--adafruit_pitft installation https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/overview
--pi_juice installation (from repository, used for battery, HW clock and buttons to switch on, off and run user scripts]
+- RaspiOS, desktop
+- adafruit_pitft installation https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/overview
+- pi_juice installation (from repository, used for battery, HW clock and buttons to switch on, off and run user scripts]
 
 Looks: Chobotnice's body is made by Karel Kortan, the blacksmith. No, it doesn't walk. 
 
