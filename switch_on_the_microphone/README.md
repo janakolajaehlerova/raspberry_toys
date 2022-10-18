@@ -1,4 +1,4 @@
-My son was 7 years old when he had move to online school. 
+My son was 7 years old when he had to move to online school. 
 
 Idea: Get him Raspberry Pi with camera, run Google Meet on it, take away keyboard and have a button that switches microphone on and off as teacher wants.
 
